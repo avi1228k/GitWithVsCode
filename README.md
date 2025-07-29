@@ -1,5 +1,4 @@
 # GitWithVsCode
-<br>
 <hr>
 <br>
 Edit the Redeme File 
